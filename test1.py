@@ -1,5 +1,5 @@
 import os
 
-file_path = os.path.join("d:/test/",img_name)
+file_path = os.path.join("e:/test/",img_name)
 
 print(file_path)
